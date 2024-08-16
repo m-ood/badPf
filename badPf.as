@@ -15,6 +15,7 @@
 		"m16a4":"85;5",
 		"mp5sd":"100;20",
 		"genericSlow":"150;16",
-		"genericFast":"100;15"
+		"genericFast":"100;15",
+		"bwc9 b":"150;11"
 	}
 }
